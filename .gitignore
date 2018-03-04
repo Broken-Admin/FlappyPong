@@ -1,3 +1,5 @@
+.gitignore
 compile/*
-/.vsc/*
+.vsc/*
 *.o
+flappy
